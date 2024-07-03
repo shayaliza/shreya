@@ -151,7 +151,7 @@ function App() {
         {/* Contact */}
         <section className="p-6 bg-white shadow-lg rounded-lg mb-6">
           <h2 className="text-3xl font-bold mb-4 text-gray-800">Contact</h2>
-          <p className="text-lg text-gray-700">Email: shreyarai@gmail.com</p>
+          <p className="text-lg text-gray-700">Email: sheru090@gmail.com</p>
           <p className="text-lg text-gray-700">Phone: +91 85287 32586</p>
           <p className="text-lg text-gray-700">Location: Varanasi, UP</p>
         </section>
